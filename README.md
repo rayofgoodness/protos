@@ -1,0 +1,1 @@
+generate all proto - task gen
